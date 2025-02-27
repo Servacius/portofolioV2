@@ -41,6 +41,7 @@
         "Developed a forum web application and a CMS for Surfvote Web in collaboration with the Polimill team, enhancing content management and user experience.",
         "Worked with the GAOGAO team to build two Startup Loan Diagnosis applications, including a CMS. Utilized Laravel, Vue.js, and Next.js to create scalable, efficient, and user-friendly solutions."
       ],
+      "summary": [],
       "skills": [
         "Laravel",
         "PostgreSQL",
@@ -66,7 +67,9 @@
       "skills": [
         "Java",
         "Identity Access Management (IAM)",
-        "SQL"
+        "SQL Server",
+        "MySQL",
+        "Microsoft AD"
       ]
     },
     {
@@ -112,6 +115,43 @@
         "Java",
         "SQL"
       ]
+    },
+    {
+      "name": "PT Anabatic Technologies Tbk",
+      "position": "Software Engineer Internship",
+      "location_type": "On-site",
+      "location": "Tangerang, Indonesia",
+      "url":"https://www.anabatic.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-01",
+      "responsibilities": [
+        "Collaborated with a team to develop a Core Banking Application for interbank transactions using the Spring Framework (Java) for the backend and Angular for the frontend. ",
+        "Conducted research and documentation on high-availability tools to enhance system reliability and performance."
+      ],
+      "skills": [
+        "Java",
+        "Javascrypt",
+        "Spring Framework",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Microsoft Student Partner",
+      "location_type": "College",
+      "location": "Laguboti, Indonesia",
+      "url":"https://mvp.microsoft.com/studentambassadors",
+      "startDate": "2016-09-01",
+      "endDate": "2017-11-01",
+      "responsibilities": [
+        "Mentored and guide students in technology-related disciplines as part of the MSP program, equipping them with industry-relevant skills beyond traditional academia. ",
+        "Provided training on Microsoft technologies to enhance students' employability and career readiness"
+      ],
+      "skills": [
+        "C#",
+        "Azure",
+        "Xamarin"
+      ]
     }
   ],
   "volunteer": [
@@ -129,60 +169,69 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Mercubuana University",
+      "url": "https://mercubuana.ac.id/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "studyType": "Bachelor Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2021-09-01",
+      "score": "3.01",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "Advanced Software Development",
+        "Software Architecture and Design"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
+      "institution": "Del Institute of Technology",
+      "url": "https://www.del.ac.id/",
+      "area": "Computer Science",
       "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "startDate": "2014-07-01",
+      "endDate": "2017-08-01",
+      "score": "2.99",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Introduction to Computer Science",
+        "Data Structures"
       ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Java",
+      "level": "Intermediate",
       "keywords": [
-        "Design",
-        "UI"
+        "Backend"
+      ]
+    },
+    {
+      "name": "Spring",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Server"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Server"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Server"
       ]
     },
     {
@@ -192,6 +241,24 @@
         "Version Control",
         "Collaboration",
         "Source Code"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend"
       ]
     },
     {
@@ -219,26 +286,6 @@
         "Frontend",
         "Backend",
         "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
       ]
     },
     {
@@ -290,16 +337,6 @@
         "SSR",
         "Static Generation"
       ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
@@ -329,46 +366,46 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Personal Portfolio V2",
       "isActive": false,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Built with Astro as a web framework and Tailwind CSS"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "#",
+      "github": "https://github.com/Servacius"
     },
     {
-      "name": "Weather App",
+      "name": "AI-Music Recomendation",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "AI Based Music Recommendation System. Use Spotify's API for music data and Gemini AI API for reference recommendations (at first i set it as a mood-based but i change it).",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with Python, Spotify API and Gemini AI API.",
+        "Don't have proper UI yet."
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://github.com/Servacius/AI-MR-Sys",
+      "github": "https://github.com/Servacius"
     },
     {
-      "name": "Task Manager",
+      "name": "arch_bytes",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Bite-sized information and quizzes generator about Software Architecturing, to help me update and refresh my knowledge. This project will be use AI(Gemini AI, for now).",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Built with Python, Spotify API and Gemini AI API.",
+        "Don't have proper UI yet."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://github.com/Servacius/arch_bytes",
+      "github": "https://github.com/Servacius"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "nodejs_boilerplate",
+      "isActive": true,
+      "description": "Boilerplate that using Express.js as the framework that build on top of Node.js.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "A simple boilerplate for API project to come that i can use to start a new API project."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/Servacius/nodejs_boilerplate",
+      "github": "https://github.com/Servacius"
     }
   ]
 }
