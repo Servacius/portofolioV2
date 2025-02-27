@@ -43,6 +43,15 @@ import Theme from "@/icons/themeSwitch.astro";
 			document.documentElement.classList.remove("light", "dark");
 			document.documentElement.classList.add(theme);
 			localStorage.setItem("theme", value);
+			
+			const imageElement = document.getElementById("avatar") as HTMLImageElement | null;
+			if (imageElement) {
+				if (theme === "light") {
+				imageElement.src = "/my_avatar.png";
+				} else if (theme === "dark") {
+				imageElement.src = "/my_avatar2.png";
+				}
+			}
 		}
 
 		updateTheme(select.value);
