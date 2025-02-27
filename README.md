@@ -16,7 +16,7 @@
 - [**Typescript**](https://www.typescriptlang.org/) - JavaScript with type syntax.
 - [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure JavaScript.
 
-
+---
 > Kickstart your portfolio with ease! 🚀 Follow these simple steps to set up your own stunning site using similar template. Let’s turn your vision into reality—no hassle, just results.
 ## Getting Started
 
@@ -61,13 +61,13 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 | ⚙️  | `build`         | Checks for errors and creates a production build in `./dist/`. |
 | ⚙️  | `preview`       | Local preview at `localhost:4321`                                       |
 
-
+---
 ## Inspirations
 This project was inspired by several outstanding portfolios. Here are some that served as references:
-[Bartosz Jarocki - Print-friendly, minimalist CV page](https://github.com/BartoszJarocki/cv) 
-[Miguel Ángel Durán - minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
-[Mira Hikari - portfolio](https://github.com/MiraHikari/portfolio)
-[John Doe - dev-portfolio](https://github.com/Smilesharks/dev-portfolio)
+- [Bartosz Jarocki - Print-friendly, minimalist CV page](https://github.com/BartoszJarocki/cv) 
+- [Miguel Ángel Durán - minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
+- [Mira Hikari - portfolio](https://github.com/MiraHikari/portfolio)
+- [John Doe - dev-portfolio](https://github.com/Smilesharks/dev-portfolio)
 
 ## License
 This project is [MIT](https://opensource.org/license/mit) licensed.
