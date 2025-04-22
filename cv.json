@@ -402,7 +402,7 @@
       "isActive": true,
       "description": "Boilerplate that using Express.js as the framework that build on top of Node.js.",
       "highlights": [
-        "A simple boilerplate for API project to come that i can use to start a new API project."
+        "Developed a production-ready REST API template with authentication and PostgreSQL integration, used as a foundation for rapid project onboarding."
       ],
       "url": "https://github.com/Servacius/nodejs_boilerplate",
       "github": "https://github.com/Servacius"
