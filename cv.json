@@ -378,7 +378,7 @@
     {
       "name": "AI-Music Recomendation",
       "isActive": true,
-      "description": "AI Based Music Recommendation System. Use Spotify's API for music data and Gemini AI API for reference recommendations (at first i set it as a mood-based but i change it).",
+      "description": "Engineered a recommendation system using Spotify API and Gemini AI to map user preferences to music genres and moods.",
       "highlights": [
         "Built with Python, Spotify API and Gemini AI API.",
         "Don't have proper UI yet."
@@ -389,7 +389,7 @@
     {
       "name": "arch_bytes",
       "isActive": true,
-      "description": "Bite-sized information and quizzes generator about Software Architecturing, to help me update and refresh my knowledge. This project will be use AI(Gemini AI, for now).",
+      "description": "Created an AI-powered platform for generating software architecture quizzes and bite-sized information, adopted by developer to refine system design skills. (note: api and website)",
       "highlights": [
         "Built with Python, Spotify API and Gemini AI API.",
         "Don't have proper UI yet."
